@@ -1,5 +1,17 @@
 {
   "name": "Mohd Javed",
   "type": "personal",
-  "bio": "UI/UX Front End Developer"
+  "bio": "UI/UX Front End Developer",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/devjavedmohd",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/devjavedmohd",
+      "icon": "FaGithub"
+    }
+  ]
 }
